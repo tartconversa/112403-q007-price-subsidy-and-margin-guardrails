@@ -1,0 +1,4 @@
+order_id,sku,channel,kind,amount,owner,state
+O1,S1,market-a,platform,25,platform,confirmed
+O1,S1,market-a,brand,27,brand,confirmed
+O2,S1,market-b,coupon,18,unknown,pending

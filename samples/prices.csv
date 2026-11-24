@@ -1,0 +1,4 @@
+sku,channel,spec,list_price,paid,day
+S1,market-a,30ml,260,208,2026-10-01
+S1,market-b,30ml,255,215,2026-10-01
+S2,store,50ml,300,240,2026-10-01
