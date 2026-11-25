@@ -1,0 +1,5 @@
+audit_id,sku,spec,region,store_id,observed_price,activity_id,day,scope_confirmed,confirmed_by
+SH01,S2,50ml,east,E100,228,R-EAST-09,2026-10-08,false,
+SH02,S1,30ml,east,E101,216,R-EAST-10,2026-10-08,true,region-wang
+SH03,S1,50ml,north,N200,350,R-NORTH-03,2026-10-09,false,
+SH04,S2,100ml,east,E102,480,R-EAST-11,2026-10-09,false,

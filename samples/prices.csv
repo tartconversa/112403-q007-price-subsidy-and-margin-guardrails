@@ -2,3 +2,6 @@ sku,channel,spec,list_price,paid,day
 S1,market-a,30ml,260,208,2026-10-01
 S1,market-b,30ml,255,215,2026-10-01
 S2,store,50ml,300,240,2026-10-01
+S1,market-c,50ml,420,336,2026-10-08
+S3,store,套组2x50ml,620,520,2026-10-06
+S2,market-e,50ml,310,255,2026-10-08

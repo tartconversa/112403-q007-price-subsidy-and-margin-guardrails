@@ -1,0 +1,5 @@
+sku,spec,canonical_unit,units,bundle_of
+S1,30ml,ml,30,
+S1,50ml,ml,50,
+S2,50ml,ml,50,
+S3,套组2x50ml,ml,100,"S2:2"

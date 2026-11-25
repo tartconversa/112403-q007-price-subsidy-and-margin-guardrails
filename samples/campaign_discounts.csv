@@ -1,0 +1,9 @@
+campaign_id,kind,amount,owner
+B1,platform,25,platform
+B1,brand,27,brand
+B2,coupon,18,unknown
+B3,platform,44,platform
+B3,brand,40,brand
+B4,platform,60,platform
+B4,brand,40,brand
+B5,coupon,20,brand

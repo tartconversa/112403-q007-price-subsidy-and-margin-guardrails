@@ -1,0 +1,6 @@
+campaign_id,sku,channel,spec,list_price,start,end,margin_floor,expected_units,owner
+B1,S1,market-a,30ml,260,2026-10-01,2026-10-31,80,1000,ops-lin
+B2,S1,market-b,30ml,255,2026-10-05,2026-11-05,80,800,ops-lin
+B3,S1,market-c,50ml,420,2026-10-08,2026-11-08,220,500,ops-zhao
+B4,S3,store,套组2x50ml,620,2026-10-08,2026-10-20,90,300,ops-zhao
+B5,S2,market-e,50ml,310,2026-10-08,2026-11-08,90,600,ops-chen

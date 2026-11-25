@@ -1,0 +1,6 @@
+settlement_id,order_id,sku,channel,kind,amount,bearer,cycle,state
+ST01,O1,S1,market-a,platform,25,platform,2026-10M,confirmed
+ST02,O1,S1,market-a,brand,27,brand,2026-10M,confirmed
+ST03,O2,S1,market-b,coupon,18,brand,2026-10M,pending
+ST04,O3,S1,market-c,platform,44,platform,2026-10M,confirmed
+ST05,O3,S1,market-c,brand,40,brand,2026-10M,confirmed
